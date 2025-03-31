@@ -1,0 +1,4 @@
+baseURL = "https://seekseep.github.io/hugo-deploy-practice/"
+languageCode = "ja"
+title = "hugo-deploy-practice"
+theme = "PaperMod"
